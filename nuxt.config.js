@@ -57,6 +57,9 @@ export default {
       }
     }
   },
+  router: {
+    trailingSlash: true
+  },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
