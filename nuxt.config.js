@@ -4,7 +4,7 @@ export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     titleTemplate: '%s - nuxt-ssr-versel-twtch',
-    title: 'nuxt-ssr-versel-twtch',
+    title: 'Nuxt SSR Vercel',
     htmlAttrs: {
       lang: 'en'
     },
